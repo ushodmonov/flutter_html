@@ -11,7 +11,7 @@ export 'package:flutter_html/custom_render.dart';
 //export render context api
 export 'package:flutter_html/html_parser.dart';
 //export render context api
-export 'package:flutter_html/html_parser.dart';
+// export 'package:flutter_html/html_parser.dart';
 //export src for advanced custom render uses (e.g. casting context.tree)
 export 'package:flutter_html/src/anchor.dart';
 export 'package:flutter_html/src/interactable_element.dart';
